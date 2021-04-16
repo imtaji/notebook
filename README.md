@@ -1,6 +1,5 @@
-# Recyclib
-To keep READMEs at one place.
-Documentation purpose.
+# Notebook
+To keep Markdowns collection at one place.
 
 ## Table of content
 
